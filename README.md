@@ -8,7 +8,6 @@
 
 - (ВАЖНО!!) Название радиостанции
 - Местоположение радиостанции (город, страна)
-- Язык вещания
 - (ВАЖНО!!) Адрес основного потока эфира 
 - И по желанию дополнительные потоки эфира
 
@@ -20,8 +19,8 @@
 
 Права на исходный код принадлежат автору плагина - Артему Блинову. Если вы правообладатель музыки, то свои притензии по поводу треков пожалуйста направляйте радиостанции. Если вы представитель радиостанции и не желаете видеть вашу станцию в дополнении, напишите мне для исключения из списка. 
 
-- [Facebook](https://www.facebook.com/blinovinfo "Я в Facebook")
-- [VK.COM](https://vk.com/blinovinfo "Я в Вконтакте")
-- [Telegram](https://t.me/blinovartem "Я в Telegram")
-- [Instagram](https://www.instagram.com/blinovinfo "Мой Инстаграм")
+- [Facebook](https://www.facebook.com/blinovinfo "My Facebook")
+- [VK.COM](https://vk.com/blinovinfo "My VK")
+- [Telegram](https://t.me/blinovartem "My Telegram")
+- [Instagram](https://www.instagram.com/blinovinfo "Instagram")
 - hello@blinovinfo.ru
