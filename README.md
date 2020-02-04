@@ -21,6 +21,6 @@
 
 - [Facebook](https://www.facebook.com/blinovinfo "My Facebook")
 - [VK.COM](https://vk.com/blinovinfo "My VK")
-- [Telegram](https://t.me/blinovartem "My Telegram")
+- [Telegram](https://t.me/ "My Telegram")
 - [Instagram](https://www.instagram.com/blinovinfo "Instagram")
 - hello@blinovinfo.ru
